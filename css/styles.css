@@ -281,6 +281,11 @@
   font-size: 18px;
   line-height: 200%;
   letter-spacing: 0.06em;
+  margin-bottom: 4px;
+}
+
+.bottom-text {
+  margin: 0;
 }
 
 .upper-text,
@@ -323,7 +328,7 @@
   list-style-type: none;
   display: flex;
   padding-left: 0px;
-  padding-right: 93px;
+  padding-right: 100px;
   letter-spacing: 0.02em;
   margin-bottom: 0px;
   margin-top: 32px;
